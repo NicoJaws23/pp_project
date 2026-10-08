@@ -1,4 +1,4 @@
-##Project Title
+## Project Title
 Proyecto Primates Camera Trapping and Ranging Data: This project uses a 
 combination of camera trap data and lowland woolly monkey ranging from the 
 Tiputini Biodiversity Station. This project aims to allow woolly monkey 
@@ -7,22 +7,22 @@ observers to upload their daily ranging data, display it, and average it to
 behavioral data collected so the spatial distribution of behaviors can be 
 visualized. 
 
-##Project Context
+## Project Context
 Proyecto Primates Camera Trapping and Ranging Data, The University of 
 Texas at Austin
 
-##Repository Structure
+## Repository Structure
 There is currently only a scripts subdirectory which will contain all 
 scripts needed for this project to function
 
-##Dependencies
+## Dependencies
 Bash, R, Python
 
-##Usage
+## Usage
 No current scripts, stay tuned!
 
-##Data
+## Data
 Datasets currently under construction
 
-##Author
+## Author
 Nico Jaworski, nico.jaworski@utexas.edu
